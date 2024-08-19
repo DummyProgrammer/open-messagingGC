@@ -13,6 +13,7 @@ CLIENT_SECRET = ""
 # Define your Open Messaging IntegrationId here
 integrationId = ""
 
+#Fetch Token
 def gcAuth(): 
 
     # Base64 encode the client ID and client secret
