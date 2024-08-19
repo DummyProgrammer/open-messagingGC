@@ -4,14 +4,14 @@ import base64, requests, sys
 
 
 # Define your Org region https://help.mypurecloud.com/articles/aws-regions-for-genesys-cloud-deployment/
-ENVIRONMENT = "usw2.pure.cloud" 
+ENVIRONMENT = "" 
 
 # Define your OAuth client credentials 
-CLIENT_ID = "cbd00602-f19a-4410-824c-7c1a97fa9bf1"
-CLIENT_SECRET = "YitA4HOKFoM8Sn8kUmuvDX3VvI0QB6n9pAwWL2fYtyA"
+CLIENT_ID = ""
+CLIENT_SECRET = ""
 
 # Define your Open Messaging IntegrationId here
-integrationId = "5d3d4e95-2700-44a7-8570-c3a03f773e1d"
+integrationId = ""
 
 def gcAuth(): 
 
