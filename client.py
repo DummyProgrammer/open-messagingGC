@@ -4,7 +4,7 @@ import base64, requests, sys
 
 
 # Define your Org region https://help.mypurecloud.com/articles/aws-regions-for-genesys-cloud-deployment/
-ENVIRONMENT = "USW2"  #eg. USW2
+ENVIRONMENT = ""  #eg. usw2.pure.cloud
 
 # Define your OAuth client credentials 
 CLIENT_ID = ""
